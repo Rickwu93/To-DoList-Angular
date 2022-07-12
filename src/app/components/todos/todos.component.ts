@@ -9,7 +9,7 @@ export class TodosComponent implements OnInit {
 
   todos:Todo[];
 
-  inputTodo:string = ";"
+  inputTodo:string = ""
 
   constructor() { }
 

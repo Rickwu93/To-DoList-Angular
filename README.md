@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Project codealong:
 
 This project is intended for learning purposes and is coded along https://github.com/TylerPottsDev/angular-todo-2020 through his youtube video.
+![image](https://github.com/Rickwu93/To-DoList-Angular/blob/main/src/app/docs/screenshot1.png?raw=true)
 
 
 ## Development server
